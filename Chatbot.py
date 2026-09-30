@@ -1,5 +1,5 @@
-#this is my first AI project
-#This is simple AI Chatbot created by using Python language
+#this is my first project
+#This is simple Chatbot created by using Python language
 
 import datetime
 import time
@@ -29,7 +29,7 @@ responses={
     "what is your name":"I dont have any name because i am a AI",
     "hi":"Hello, How can i help you",
     "give your self introduction":"I am smart AI chatbot",
-    "by":"ok bye"
+    "by":"ok by"
 }
 
 #method to get response from chatbot
